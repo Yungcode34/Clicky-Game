@@ -1,0 +1,14 @@
+.animal-btn {
+  position: relative;
+  background-color: #242386;
+    color: white;
+    margin: 2px;
+    float: left;
+    width: 175px;
+    height: 45px;
+    border-radius: 14px;
+  }
+.animal-btn:hover {
+  background-color: white;
+  color: #242386;
+}
